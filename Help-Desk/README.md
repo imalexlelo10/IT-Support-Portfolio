@@ -23,4 +23,4 @@ Each case documents:
 
 ### Updated Account
 
-![Completed Ticket](account-account.png)
+![Updated Account](updated-account.png)
