@@ -1,26 +1,51 @@
-# IT-Support-Portfolio
+# Alex Lelo | IT Help Desk Portfolio
 
-Welcome to my IT Portfolio!
+Welcome to my IT portfolio!
 
-This repository documents my hands-on experience solving Help Desk, Active Directory, Windows, Networking, Azure, and Identity & Access Management scenarios.
+This repository documents my hands-on learning through Help Desk simulations, Active Directory labs, networking exercises, Azure projects, and Identity & Access Management (IAM) labs.
 
-My goal is to demonstrate not only technical skills, but also critical thinking, documentation, and structured troubleshooting.
+My goal is to build practical experience while developing strong troubleshooting, documentation, and customer support skills.
 
-## Skills Demonstrated
+---
 
-- Help Desk Troubleshooting
+## Current Focus
+
+- Help Desk
 - Windows Administration
 - Active Directory
-- Microsoft 365
-- Identity & Access Management (IAM)
-- Networking Fundamentals
-- Technical Documentation
-- Customer Communication
-
-## Current Learning
-
-- CompTIA A+
-- Help Desk
-- Active Directory
+- Networking
 - Azure
 - Identity & Access Management
+
+---
+
+## Technical Skills
+
+- Windows 10/11
+- Active Directory
+- Microsoft 365
+- Azure
+- Networking
+- Customer Support
+- Troubleshooting
+- Technical Documentation
+
+---
+
+## Portfolio Sections
+
+📁 Help Desk
+
+📁 Active Directory
+
+📁 Networking
+
+📁 Azure
+
+📁 IAM
+
+📁 SOPs
+
+---
+
+Thanks for stopping by!
