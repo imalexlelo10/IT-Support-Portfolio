@@ -1,3 +1,4 @@
+
 ---
 
 ## 📷 Screenshots
@@ -6,6 +7,10 @@
 
 ![Original Ticket](ticket.png)
 
-### Completed Ticket
+### Display Name Change
 
-![Completed Ticket](completed-ticket.png)
+![Display Name Change](display-name-change.png)
+
+### Updated Account
+
+![Updated Account](updated-account.png)
