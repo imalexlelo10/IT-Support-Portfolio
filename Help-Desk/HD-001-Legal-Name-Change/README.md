@@ -4,6 +4,8 @@
 
 A Finance department employee submitted a request to update her account following a legal name change after marriage. The request required updating her display name, assigning a new primary email address, and retaining her previous email address as an alias to ensure uninterrupted communication.
 
+## WALKTHROUGH LOCATED AT THE BOTTOM OF THIS PAGE!
+
 ---
 
 ## Objective
@@ -117,4 +119,18 @@ In a production environment I would also:
 
 ![Updated Account](updated-account.png)
 
+---
 
+# 🎥 Case Review
+
+**Watch the full walkthrough:**
+
+▶ https://www.youtube.com/watch?v=sh_GlUlb764
+
+This walkthrough demonstrates:
+
+- Reviewing the support request
+- Verifying HR approval
+- Updating account information
+- Configuring the email alias
+- Verifying the completed changes
