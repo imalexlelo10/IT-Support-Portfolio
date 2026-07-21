@@ -23,7 +23,7 @@ Analysis
 
 Instead of immediately making account changes, I reviewed the request to identify every required modification.
 
-Requirements identified:
+**Requirements identified:**
 
 Display Name
 Primary Email Address
@@ -31,20 +31,21 @@ Email Alias
 Verification after changes
 Resolution
 
-Successfully:
+**Successfully:**
 
 Updated display name
 Updated primary email address
 Configured previous email as an alias
 Verification
 
-Verified that:
+**Verified that:**
 
 Display name reflects legal name
 Primary email updated successfully
 Previous email address remains functional as an alias
 
 **Skills Demonstrated**:
+
 Identity Management
 
 Account Administration
@@ -57,7 +58,7 @@ Customer Service
 
 User Verification
 
-Lessons Learned
+**Lessons Learned**:
 
 Legal name changes often require updating multiple account attributes.
 
@@ -65,13 +66,6 @@ Email aliases help maintain business continuity.
 
 Administrative changes should always be verified before implementation.
 
-Lessons Learned:
-
-Legal name changes often require updating multiple account attributes.
-
-Email aliases help maintain business continuity.
-
-Administrative changes should always be verified before implementation.
     
    
 
