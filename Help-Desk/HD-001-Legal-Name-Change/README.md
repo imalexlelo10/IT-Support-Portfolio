@@ -19,9 +19,14 @@ Update primary email address
 Keep previous email address as an alias
 HR approval already completed
 
-Analysis
+**Analysis**:
 
 Instead of immediately making account changes, I reviewed the request to identify every required modification.
+
+
+
+
+
 
 **Requirements identified:**
 
@@ -31,6 +36,11 @@ Email Alias
 Verification after changes
 Resolution
 
+
+
+
+
+
 **Successfully:**
 
 Updated display name
@@ -38,11 +48,22 @@ Updated primary email address
 Configured previous email as an alias
 Verification
 
+
+
+
+
+
 **Verified that:**
 
 Display name reflects legal name
 Primary email updated successfully
 Previous email address remains functional as an alias
+
+
+
+
+
+
 
 **Skills Demonstrated**:
 
