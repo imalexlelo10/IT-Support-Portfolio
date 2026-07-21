@@ -101,6 +101,20 @@ In a production environment I would also:
 - Document the completed work in the ticketing system.
 - Notify the user that the request has been completed.
 
-   
+---
+
+## 📷 Screenshots
+
+### Original Ticket
+
+![Original Ticket](ticket.png)
+
+### Display Name Change
+
+![Display Name Change](display-name-change.png)
+
+### Updated Account
+
+![Updated Account](updated-account.png)
 
 
