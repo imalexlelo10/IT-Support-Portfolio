@@ -46,19 +46,31 @@ Previous email address remains functional as an alias
 
 **Skills Demonstrated**:
 Identity Management
+
 Account Administration
+
 Microsoft 365
+
 Documentation
+
 Customer Service
+
 User Verification
+
 Lessons Learned
+
 Legal name changes often require updating multiple account attributes.
+
 Email aliases help maintain business continuity.
+
 Administrative changes should always be verified before implementation.
 
 Lessons Learned:
+
 Legal name changes often require updating multiple account attributes.
+
 Email aliases help maintain business continuity.
+
 Administrative changes should always be verified before implementation.
     
    
