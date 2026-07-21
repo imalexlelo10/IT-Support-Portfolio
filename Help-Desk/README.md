@@ -9,3 +9,18 @@ Each case documents:
 - Resolution
 - Verification
 - Lessons learned
+---
+
+## 📷 Screenshots
+
+### Original Ticket
+
+![Original Ticket](ticket.png)
+
+### Display Name Change
+
+![Display Name Change](display-name-change.png)
+
+### Updated Account
+
+![Completed Ticket](account-account.png)
