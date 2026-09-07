@@ -75,3 +75,29 @@ After completing this lab, I have a better understanding of the purpose behind O
 
 I also gained hands-on experience with the Joiner portion of the JML lifecycle by provisioning new employee identities and assigning them to the appropriate OUs and security groups. One of the biggest things that stood out to me was understanding how security groups can make access management more efficient while helping reduce permission-management mistakes and unnecessary access.
 
+## Lab Evidence
+
+### Domain Verification
+I verified my authenticated identity, server hostname, and Active Directory domain before beginning the onboarding process.
+
+![Domain Verification](screenshots/01-domain-verification.png)
+
+### Organizational Unit Structure
+I created an OU structure within the LeloTech domain to organize identities based on their departments and support easier Active Directory administration.
+
+![OU Structure](screenshots/02-ou-structure.png)
+
+### Employee Accounts
+I provisioned three employee identities representing users from the IT, Human Resources, and Finance departments.
+
+![Employee Accounts](screenshots/03-user-accounts.png)
+
+### Role-Based Security Groups
+I created Global Security Groups based on employee job roles to establish the identity-to-role structure for RBAC.
+
+![Security Groups](screenshots/04-security-groups.png)
+
+### Group Membership Verification
+I verified the employee's role assignment through the **Member Of** tab in ADUC, confirming that the user was successfully assigned to the appropriate security group.
+
+![Membership Verification](screenshots/05-membership-verification.png)
