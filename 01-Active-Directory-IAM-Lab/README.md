@@ -67,3 +67,11 @@ The following group memberships were verified:
 This verification confirmed that the identity-to-role assignments were configured correctly. Resource-level permissions were not configured or tested during this lab.
 
 
+## What I Learned
+
+Before completing this lab, I did not fully understand the Joiner-Mover-Leaver (JML) identity lifecycle or some of the tools and concepts used to establish RBAC. I was already familiar with Organizational Units (OUs) and security groups, but I did not fully understand how useful they could be for organizing and managing identities within Active Directory.
+
+After completing this lab, I have a better understanding of the purpose behind OUs and security groups. OUs provide a structured way to organize and administer identities within a domain, while security groups provide a scalable way to organize users based on their roles and eventually manage access through group membership rather than assigning permissions individually.
+
+I also gained hands-on experience with the Joiner portion of the JML lifecycle by provisioning new employee identities and assigning them to the appropriate OUs and security groups. One of the biggest things that stood out to me was understanding how security groups can make access management more efficient while helping reduce permission-management mistakes and unnecessary access.
+
