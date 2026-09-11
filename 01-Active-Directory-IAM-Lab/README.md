@@ -101,3 +101,54 @@ I created Global Security Groups based on employee job roles to establish the id
 I verified the employee's role assignment through the **Member Of** tab in ADUC, confirming that the user was successfully assigned to the appropriate security group.
 
 ![Membership Verification](screenshots/05-membership-verification.png)
+
+
+# Lab 2 - RBAC File Share & Resource Permissions
+
+## Objective
+
+The objective of this lab was to assign permissions to security groups for the departmental resources employees need to access. The goal was to determine the appropriate level of access for each group based on the employees' roles and responsibilities while following the principle of least privilege.
+
+## Scenario
+
+After creating the employee accounts and role-based security groups in Lab 1, the security groups still needed to be connected to actual organizational resources. I created a shared folder containing separate departmental folders for Finance, Human Resources, and IT. I then configured Share and NTFS permissions for each folder using the appropriate departmental security group.
+
+## What I Configured
+
+I created departmental shared folders for Finance, Human Resources, and IT and assigned each department's security group permissions to its corresponding resource.
+
+- GG_Finance_Analysts → Finance
+- GG_HR_Specialists → Human Resources
+- GG_IT_Support → IT
+
+Each security group was granted Change and Read permissions at the Share level and Modify permissions at the NTFS level. This allows employees to read, create, modify, and delete files needed for their roles without giving them unnecessary administrative control over the resource.
+
+Full Control was not assigned because the departmental roles did not require the ability to manage permissions. This follows the principle of least privilege by providing users only the access necessary to perform their job responsibilities.
+
+## Why Security Groups Were Used
+
+Permissions were assigned to departmental security groups rather than directly to individual user accounts. This makes access easier to manage and reduces the time required to provision new employees.
+
+For example, when a new Finance employee joins the organization, the administrator can add the employee to GG_Finance_Analysts. Because the group already has the appropriate permissions to the Finance resource, the employee receives access through their group membership without requiring individual folder permissions to be configured.
+
+This provides a more scalable and manageable approach to access control.
+
+## Verification
+
+I verified that all three departmental security groups were properly configured with the intended Share and NTFS permissions by reviewing the Sharing and Security settings for each departmental folder.
+
+The following group-to-resource assignments were verified:
+
+- GG_Finance_Analysts → Finance
+- GG_HR_Specialists → Human Resources
+- GG_IT_Support → IT
+
+Each group was configured with Change and Read permissions at the Share level and Modify permissions at the NTFS level.
+
+Effective user access has not yet been tested. A future phase of the lab will use a domain-joined client workstation to sign in as individual employees and verify that authorized resources can be accessed while unauthorized departmental resources are denied.
+
+## What I Learned
+
+Before this lab, I did not fully understand how users and groups are permitted to access specific resources within an organization. Now I better understand the flow of RBAC, the difference between Share and NTFS permissions, and the principle of least privilege.
+
+The most important thing I learned about RBAC and least privilege is that permissions should be based on the capabilities a user needs to perform their job responsibilities. Users should receive enough access to complete their duties without being given unnecessary administrative capabilities or permissions.
