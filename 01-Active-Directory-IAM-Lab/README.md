@@ -152,3 +152,12 @@ Effective user access has not yet been tested. A future phase of the lab will us
 Before this lab, I did not fully understand how users and groups are permitted to access specific resources within an organization. Now I better understand the flow of RBAC, the difference between Share and NTFS permissions, and the principle of least privilege.
 
 The most important thing I learned about RBAC and least privilege is that permissions should be based on the capabilities a user needs to perform their job responsibilities. Users should receive enough access to complete their duties without being given unnecessary administrative capabilities or permissions.
+
+
+![Shares Folder](screenshots/lab2_shares_folder.png)
+
+![Share_Permssions](screenshots/lab2_share_permissions.png)
+
+![NTFS_Permissions](screenshots/lab2_ntfs_permissions.png)
+
+
